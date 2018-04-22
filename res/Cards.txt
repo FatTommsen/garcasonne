@@ -1,0 +1,9 @@
+0;2;lllll;llcll;lcccl;llcll;llrll;fluss.jpg
+1;4;lllll;llcll;lcccl;llcll;lllll;fluss.jpg
+2;1;ttttt;ttttt;ttttt;ttttt;ttttt;fluss.jpg
+3;4;xtttx;ltttl;rrrrr;lllll;lllll;fluss.jpg
+4;5;xtttx;ltttl;lllll;lllll;lllll;fluss.jpg
+5;3;xlllx;ttttt;ttttt;ttttt;xlllx;fluss.jpg
+6;3;xlllx;tlllt;ttltt;tlllt;xlllx;fluss.jpg
+7;2;xtttx;llllt;llltt;llllt;llllx;fluss.jpg
+8;3;xtttx;ltttl;llrrr;llrll;llrll;fluss.jpg

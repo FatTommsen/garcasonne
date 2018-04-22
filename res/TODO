@@ -1,0 +1,42 @@
+TODO:
+
+Tommy:
+
+Card-Class: 
+	- int CardNumber
+	
+	- int spielerNummerBesetzt mit [x] [y] koordinate (point)
+	- (0) für dummie
+	- (durchsuchfunktion);
+
+	- void display ( Card card );
+	- 0 = grau (dummie)
+	- (grafisch überhaupt darstellen, mit verschiedenen farben)
+
+Player-Class: 
+	- machdeinenZug schnittstelle (Card card );   <<<<<<<<<NIKO SCHNITTSTELLE
+----------------------------------------------------------------------------------
+Niko:
+
+GameManager: 
+	- gucken ob punkte verteilt werden
+	- gucken ob männchen abgeschlossen sind
+
+CardHandler: 
+	- ANFANG: feld mit dummikarten + anfangskarte füllen
+	- checkt ob card angelegt werden kann
+
+-----------------------------------------------------------------------------------
+
+cardHandler wird angelegt und lädt karten
+
+Spielfeld wird angelegt:
+speichert karten
+
+cardHandler füllt spielfeld mit dummiekarten
+
+gameManager angelegt( cardHandler, spielfeld );
+	GM legt spieler an;
+	GM holt karte und gibt spieler am anfang vom zug
+	
+spieler hat optionen die man im zug eben so hat
